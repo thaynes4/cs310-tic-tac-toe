@@ -10,7 +10,8 @@ public class TicTacToeModel{
         
         X("X"), 
         O("O"), 
-        EMPTY(" ");
+        EMPTY("_");
+        
 
         private String message;
         
